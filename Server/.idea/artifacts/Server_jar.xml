@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Server:jar">
+    <output-path>E:/Video/server</output-path>
+    <root id="archive" name="Server.jar">
+      <element id="module-output" name="Server" />
+      <element id="extracted-dir" path="E:/Learning/Java/JLayer1.0.1/jaco-mp3-player-0.9.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/Learning/Java/jackson2/jackson-all-1.9.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
